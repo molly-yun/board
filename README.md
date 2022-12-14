@@ -8,4 +8,6 @@ Spring MVC<br>
 Spring JDBC<br>
 MySQL<br>
 Thymeleaf<br>
-Lombok
+Lombok<br>
+JDK 11, Java 11
+
